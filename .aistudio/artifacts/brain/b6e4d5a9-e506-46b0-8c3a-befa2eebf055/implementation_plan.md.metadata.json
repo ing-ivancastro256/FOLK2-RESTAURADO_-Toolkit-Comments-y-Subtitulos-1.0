@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la corrección profunda de los filtros de búsqueda de YouTube (parámetros de fecha, duración, características y tipos con filtrado estricto bidireccional), controles externos de ordenación (vistas, fecha, duración, relevancia), y la nueva vista detallada tipo YouTube Watch dentro del dashboard con selección y descarga multiformato de comentarios (TXT, CSV, JSON).",
+  "updatedAt":  "2026-10-30T21:40:19.866991798Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

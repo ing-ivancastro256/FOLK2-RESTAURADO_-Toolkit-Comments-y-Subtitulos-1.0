@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación para el nuevo módulo de Salidas Prompt con historial en IndexedDB, modal de confirmación con selector ampliado (100, 300, 500, 1000, Todos), aviso de re-ejecución, pop-up de Ver ahora o Ver después, y rediseño de presentación continua vertical sin pestañas con acciones de JSON en cabecera.",
+  "updatedAt": "2026-11-03T23:17:35.085913749Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

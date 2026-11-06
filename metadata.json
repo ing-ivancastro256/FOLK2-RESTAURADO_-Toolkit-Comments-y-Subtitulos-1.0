@@ -1,0 +1,8 @@
+{
+  "name": "Remix 222 - YouTube Content Toolkit",
+  "description": "Herramienta profesional para creadores de YouTube: extracción de metadatos reales, miniaturas en máxima resolución, transcripciones sincronizadas y repurposing con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
